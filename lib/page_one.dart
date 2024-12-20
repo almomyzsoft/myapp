@@ -105,6 +105,7 @@ class PageOne extends StatelessWidget {
                   ],
                 ),
                 SizedBox(height: 40),
+                 //add new page
                 SizedBox(
                   width: double.infinity,
                   child: ElevatedButton(
